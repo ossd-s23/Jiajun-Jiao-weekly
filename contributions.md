@@ -22,6 +22,11 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Feb 27   | [Courant Institute of Mathematical Sciences](https://en.wikipedia.org/w/index.php?title=Courant_Institute_of_Mathematical_Sciences&diff=prev&oldid=1141864175)    | Wikipedia |    I fixed outdated information and broken links.    |
+| Feb 27   |  [Courant Institute of Mathematical Sciences](https://en.wikipedia.org/w/index.php?title=Courant_Institute_of_Mathematical_Sciences&diff=prev&oldid=1141867531)   |  Wikipedia   |   I updated ranking and links.   |
+| Feb 27   |  [Courant Institute of Mathematical Sciences](https://en.wikipedia.org/w/index.php?title=Courant_Institute_of_Mathematical_Sciences&diff=prev&oldid=1141867965)   |  Wikipedia   |   I updated internal reference.   |
+| Feb 27 | [Shinan District](https://en.wikipedia.org/w/index.php?title=Shinan_District&diff=prev&oldid=1141953481) | Wikipedia | I fixed outdated reference for my hometown. |
+| Feb 27 | [Shinan District](https://en.wikipedia.org/w/index.php?title=Shinan_District&diff=prev&oldid=1141953481) | Wikipedia | I fixed outdated reference for my hometown. |
+| Feb 27 | [Qingdao No.2 Middle School](https://en.wikipedia.org/w/index.php?title=Qingdao_No._2_Middle_School&diff=prev&oldid=1141965660) | Wikipedia | I completely updated the outdated & short introduction as well as the reference link for my high school. (Almost completely rewrite the whole page) |
+| March 1 | [Node.js](https://en.wikipedia.org/w/index.php?title=Node.js&diff=prev&oldid=1142300945) | Wikipedia | I updated latest release version of Node.js |
+| March 2 | [Missing book cover in _config.yml](https://github.com/joannakl/ossd/issues/7) | Course Website | Claimed an existing issue and created a [Pull Request](https://github.com/joannakl/ossd/pull/60) for it |
