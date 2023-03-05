@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | Feb 27 | [Qingdao No.2 Middle School](https://en.wikipedia.org/w/index.php?title=Qingdao_No._2_Middle_School&diff=prev&oldid=1141965660) | Wikipedia | I completely updated the outdated & short introduction as well as the reference link for my high school. (Almost completely rewrote the whole page) |
 | March 1 | [Node.js](https://en.wikipedia.org/w/index.php?title=Node.js&diff=prev&oldid=1142300945) | Wikipedia | I updated latest release version of Node.js |
 | March 2 | [Issue: Missing book cover in _config.yml](https://github.com/joannakl/ossd/issues/7) | Course Website | Claimed an existing issue and created a [Pull Request](https://github.com/joannakl/ossd/pull/60) for it |
+| March 3 | [Issue: Evaluation created as text files instead of markdown files](https://github.com/ossd-s23/project-evaluation/issues/4) | Course GitHub | Created a new issue and another assignee resolved it |
