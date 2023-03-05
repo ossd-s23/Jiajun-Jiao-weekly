@@ -10,7 +10,10 @@ layout: default
   </div>
 
   <div class="date">
-    Written before or on {{ page.date | date: "%B %e, %Y" }}
+    Written before or at 
+    {{page.time}} EST
+    {{ page.date | date: "%B %e, %Y" }}
+    {{page.location}}
   </div>
 
 </article>
