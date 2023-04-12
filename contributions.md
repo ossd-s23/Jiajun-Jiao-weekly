@@ -37,3 +37,6 @@ Replace the first row with your own contribution.
 | March 19 | [Issue: Invalid source links in History slides](https://github.com/joannakl/ossd/issues/66) | Course GitHub | Claimed an existing issue and am waiting for assignment |
 | March 20 | [Issue: Typos in week 5 blog](https://github.com/ossd-s23/estelacruz-weekly/issues/3) | Course GitHub | Reporting an issue for other student's blog repository |
 | March 20 | [Issue: Typos in Week 6 Blog Post](https://github.com/ossd-s23/sid2002CN-weekly/issues/1) | Course GitHub | Reporting an issue for other student's blog repository |
+| April 7 | [Ursa Technology](https://en.wikipedia.org/w/index.php?title=Draft:Ursa_Technology&action=history) | Wikipedia | I build the wikipedia page for my internship company. But due to lack of reference, only the draft was created. |
+| April 7 | [Ursa Technology](https://en.wikipedia.org/w/index.php?title=Draft%3AUrsa_Technology&diff=prev&oldid=1148577021&diffmode=source) | Wikipedia | fixed format error in markdown |
+| April 11 | [FreeCodeCamp](https://en.wikipedia.org/w/index.php?title=FreeCodeCamp&diff=prev&oldid=1149275785&diffmode=source) | Wikipedia | Updated number of contributors in the organization |
