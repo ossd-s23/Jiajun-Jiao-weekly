@@ -41,3 +41,4 @@ Replace the first row with your own contribution.
 | April 7 | [Ursa Technology](https://en.wikipedia.org/w/index.php?title=Draft%3AUrsa_Technology&diff=prev&oldid=1148577021&diffmode=source) | Wikipedia | Fixed format error in markdown |
 | April 11 | [FreeCodeCamp](https://en.wikipedia.org/w/index.php?title=FreeCodeCamp&diff=prev&oldid=1149275785&diffmode=source) | Wikipedia | Updated number of contributors in the organization |
 | April 17 | [FreeCodeCamp](https://en.wikipedia.org/w/index.php?title=FreeCodeCamp&diff=prev&oldid=1150334544&diffmode=source) | Wikipedia | Updated information about FreeCodeCamp's curriculum on its YouTube channel |
+| April 22 | [Issue: Invalid source links in History slides](https://github.com/joannakl/ossd/issues/66) | Course GitHub | Participated in the discussion, claimed the issue, and created a [Pull Request](https://github.com/joannakl/ossd/pull/81) to resolve it.
